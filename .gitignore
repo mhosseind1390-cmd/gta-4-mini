@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+
+# Memory dumps
+*.stackdump
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.*~
+
+# General
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Unity
+Library/
+Temp/
+Build/
+Builds/
+obj/
+*.apk
+*.aab
+*.unitypackage
+
+# Rider
+.idea/
+*.sln.iml
+
+# Mac
+.DS_Store
